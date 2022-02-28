@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+![](docs/assets/images/StraplineCards_ENGLISH.png)
 
-You can use the [editor on GitHub](https://github.com/whri-phenogenomics/whri-phenogenomics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Phenogenomics group at WHRI-QMUL is a small computational team with **many** collaborators.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Phenogenomics group at WHRI-QMUL has a **strong** will to contribute to Rare Disease research.  
 
-### Markdown
+The Phenogenomics group at WHRI-QMUL is **proud** of the impact their work can have on the life of patients and families affected by rare disorders.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Our Projects
+- We have built Exomiser, **one of the most popular software frameworks for diagnosis of rare disease patients**, together with our collaborators in the Monarch Initative
+- We have been playing a leading role in [**discovering new rare disease genes**](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790) within the analysis of genomic data from the UK 100,000 Genomes Project
+- We have been reviewing the most up-to-date variant prioritisation software - a type of software that can speed up the **genetic diagnosis** of rare diseases
+- We have been integrating cross-species data to elucidate the [**full spectrum of intolerance to Loss-of-Function variation**](https://www.nature.com/articles/s41467-020-14284-2) developing novel disease-gene discovery and variant prioritisation strategies tailored to specific type of disorders.
 
-# Header 1
-## Header 2
-### Header 3
+### Our Collaborators
+- [The 100,000 Genomes Project](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project)
+- [The Monarch Initiative](https://monarchinitiative.org/)
+- [The Human Phenotype Ontology](https://hpo.jax.org/app/)
+- [The International Mouse Phenotyping Consortium](https://www.mousephenotype.org/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whri-phenogenomics/whri-phenogenomics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are part of the [Centre for Translational Bioinformatics](https://www.qmul.ac.uk/c4tb/our-team/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/)
