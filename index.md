@@ -1,4 +1,4 @@
-![](docs/assets/StraplineCards_ENGLISH.png)
+![](docs/assets/Strapline_Cards_ENGLISH.png)
 
 The Phenogenomics group at WHRI-QMUL is a small computational team with **many** collaborators.  
 
